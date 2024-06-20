@@ -1,0 +1,77 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - audioplayers_darwin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_sound (9.6.0):
+    - Flutter
+    - flutter_sound_core (= 9.6.0)
+  - flutter_sound_core (9.6.0)
+  - just_audio (0.0.1):
+    - Flutter
+  - on_audio_query_ios (0.0.1):
+    - Flutter
+    - SwiftyBeaver
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - record_darwin (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - SwiftyBeaver (1.9.5)
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - on_audio_query_ios (from `.symlinks/plugins/on_audio_query_ios/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - record_darwin (from `.symlinks/plugins/record_darwin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - flutter_sound_core
+    - SwiftyBeaver
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  audioplayers_darwin:
+    :path: ".symlinks/plugins/audioplayers_darwin/ios"
+  Flutter:
+    :path: Flutter
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  on_audio_query_ios:
+    :path: ".symlinks/plugins/on_audio_query_ios/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  record_darwin:
+    :path: ".symlinks/plugins/record_darwin/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 088d2483ebd1dc43f51d253d4a1c517d9a2e7207
+  audioplayers_darwin: 877d9a4d06331c5c374595e46e16453ac7eafa40
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_sound: dde9a913063b65a27ba8fdc2039036b99b136c79
+  flutter_sound_core: 0c6eb9d5268adc70ff159b3d65fd3d98a82d3a27
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  on_audio_query_ios: e5afb0d4b42cfa3e8762d8ec1953540cb4f02100
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  record_darwin: 1f6619f2abac4d1ca91d3eeab038c980d76f1517
+  SwiftyBeaver: 84069991dd5dca07d7069100985badaca7f0ce82
+
+PODFILE CHECKSUM: 3108c007b415892354051e302ff538aefaee9c33
+
+COCOAPODS: 1.15.2
